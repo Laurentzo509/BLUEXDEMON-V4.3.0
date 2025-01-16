@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "50941091397"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber
+global.botNumber = 50941091397
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -21,9 +21,9 @@ global.alwaysonline = true
 global.autoswview = false
 global.public = true
 global.autoreact = false
-global.antidelete = false
+global.antidelete = true
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
@@ -72,8 +72,8 @@ global.autoReport = true
 global.autoLevel = true
 global.autoSticker = true
 global.gamewaktu = 60
-global.limitCount = 30
-global.Intervalmsg = 1000
+global.limitCount = 30000000000000000000000000
+global.Intervalmsg = 100000000000000000000000
 global.gris = '`'
 global.fileStackApi ="AVKHbeyXsT0G9IKI01qenz"
 
@@ -82,7 +82,7 @@ global.Betabotz = 'LSd7Lq9S'
 global.Lolhuman = '652c7664865e2b0e70929768',
 global.FilestackApi = 'AJgyzwz0FQk67sTuplYoiz'  
 global.gcounti = {
-'prem' : 1000,
+'prem' : 1000000000000000000000,
 'user' : 5
 } 
  
